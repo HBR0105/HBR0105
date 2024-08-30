@@ -24,18 +24,7 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HBR0105/HBR0105/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
 </div>
-
-<hr/>
-
 <h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 
@@ -47,8 +36,12 @@
 <br/><br/>
 
 <hr/>
+![HBR0105's github stats](https://github-readme-stats.vercel.app/api?username=HBR0105&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HBR0105&theme=tokyonight" alt="mystreak"/>
+![HBR0105's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBR0105&theme=tokyonight&layout=compact)
 
 <br/>
+<hr/>
 
 <div align="center">
 <a href='https://ko-fi.com/coffee99071' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
